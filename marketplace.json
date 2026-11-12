@@ -1,0 +1,16 @@
+{
+  "name": "ai-sdlc-marketplace",
+  "description": "Private marketplace for AI SDLC Engine",
+  "plugins": [
+    {
+      "name": "ai-sdlc-engine",
+      "source": "./ai-sdlc-engine",
+      "version": "0.1.0",
+      "description": "AI-native development team for ZCode: TeamLead orchestration with specialized engineering agents",
+      "displayName": "AI SDLC Engine",
+      "displayName_i18n": { "ru-RU": "AI SDLC Engine" },
+      "category": "developer-tools",
+      "tags": ["AI", "SDLC", "Engineering", "TeamLead"]
+    }
+  ]
+}

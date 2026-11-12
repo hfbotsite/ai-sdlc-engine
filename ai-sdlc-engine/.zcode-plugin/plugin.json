@@ -1,0 +1,19 @@
+{
+  "name": "ai-sdlc-engine",
+  "version": "0.1.0",
+  "description": "AI-native software development lifecycle with TeamLead orchestration and specialized engineering agents",
+  "author": {
+    "name": "AI SDLC Engine"
+  },
+  "keywords": [
+    "ai",
+    "sdlc",
+    "teamlead",
+    "development",
+    "testing",
+    "code-quality"
+  ],
+  "agents": "agents",
+  "skills": "skills",
+  "commands": "commands"
+}
